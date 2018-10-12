@@ -7,12 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="config" />
+        <module name="eureka-server" />
         <module name="movie" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="config" target="10" />
+      <module name="config-server" target="10" />
+      <module name="eureka-server" target="10" />
       <module name="movie" target="10" />
+      <module name="movieservice-eureka-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

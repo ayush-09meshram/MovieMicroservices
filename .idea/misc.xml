@@ -5,6 +5,9 @@
       <list>
         <option value="$PROJECT_DIR$/MovieSpringBoot/pom.xml" />
         <option value="$PROJECT_DIR$/config/pom.xml" />
+        <option value="$PROJECT_DIR$/movieservice-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/config-server/pom.xml" />
       </list>
     </option>
   </component>
