@@ -1,4 +1,4 @@
-package com.stackroute.apigatewayzuul;
+package com.example.apigateway;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ApigatewayZuulApplicationTests {
+public class ApigatewayApplicationTests {
 
 	@Test
 	public void contextLoads() {
